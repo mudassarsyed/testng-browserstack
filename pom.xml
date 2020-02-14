@@ -79,7 +79,7 @@
               <configuration>
               <source>1.8</source>
               <target>1.8</target>
-              <complianceLevel>${jdk.source.version}</complianceLevel>
+              <complianceLevel>1.8</complianceLevel>
               </configuration>
               <executions>
               <execution>
