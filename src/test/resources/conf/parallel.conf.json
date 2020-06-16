@@ -25,11 +25,9 @@
       "resolution": "1024x768"
     },
     "safari": {
-      "os": "OS X",
-      "os_version": "High Sierra",
-      "browser": "Safari",
-      "browser_version": "11.0",
-      "resolution": "1024x768"
+      "real_mobile": "true",
+      "os_version": "11",
+      "device": "iPhone 8 Plus"
     },
     "ie": {
       "os": "Windows",
