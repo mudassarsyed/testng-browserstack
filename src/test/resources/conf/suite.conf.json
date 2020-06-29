@@ -19,6 +19,14 @@
     "safari": {
       "browser": "safari"
     },
+    "edge": {
+      "browser": "Edge"
+    },
+    "ipad": {
+      "os_version": "13",
+      "device": "iPad Pro 12.9 2020",
+      "real_mobile": "true"
+    },
     "ie": {
       "browser": "internet explorer"
     }
