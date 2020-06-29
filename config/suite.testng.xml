@@ -20,7 +20,7 @@
 
     <test name="PoolTestFirefox" thread-count="3" parallel="classes">
         <parameter name="config" value="suite.conf.json"/>
-        <parameter name="environment" value="firefox"/>
+        <parameter name="environment" value="ipad"/>
         <classes>
             <class name="com.browserstack.suite.SuiteTest01"/>
             <class name="com.browserstack.suite.SuiteTest02"/>
