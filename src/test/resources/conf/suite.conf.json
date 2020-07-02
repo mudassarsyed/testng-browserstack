@@ -25,7 +25,8 @@
     "ipad": {
       "os_version": "13",
       "device": "iPad Pro 12.9 2020",
-      "real_mobile": "true"
+      "real_mobile": "true",
+      "deviceOrientation": "landscape"
     },
     "ie": {
       "browser": "internet explorer"
